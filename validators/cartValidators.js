@@ -25,7 +25,7 @@ const cartValidations = {
         })
     },
     /**
-     * delete or update product quantity of Cart Validation
+     * get user carts Validation
      */
      userCartsValidation: (regObj) => {
         return new Promise(async (resolve, reject) => {

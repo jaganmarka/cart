@@ -13,7 +13,8 @@ const successMsgs = {
     SU00001: "Successfully created.",
     SU00002: "Successfully added products.",
     SU00003: "Successfully deleted products.",
-    SU00003: "Successfully updated product quantity.",
+    SU00004: "Successfully updated product quantity.",
+    SU00005: "Successfully fetch the cart products.",
 }
 
 module.exports = { errorMsgs, successMsgs };
