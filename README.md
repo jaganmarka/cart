@@ -14,7 +14,9 @@ npm install
 
 #To start the express server, run the following
 
-npm run start:dev
+npm run start
+
+Open http://localhost:3000 and take a look around.
 
 #To install the Sequelize CLI:
 
